@@ -1,4 +1,4 @@
-### [Project online preview](https://cli.vuejs.org/config/)
+### [Project online preview](http://www.bujiubujiu.com)
 
 ## Project setup
 ```
