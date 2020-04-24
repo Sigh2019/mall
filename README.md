@@ -1,4 +1,4 @@
-# againmall
+### [Project online preview](https://cli.vuejs.org/config/)
 
 ## Project setup
 ```
